@@ -1,0 +1,48 @@
+
+.aside {
+  background-color: rgb(216, 216, 216);
+  height: 100%;
+  padding-top: 3%;
+  padding-bottom: 100%;
+}
+.jumbotron {
+  height: 100%;
+  margin: 0
+}
+.card {
+  background-color: rgb(72, 118, 118);
+  color: white;
+  padding: 20px;
+  margin: 10px;
+}
+.icon {
+  max-width: 100px;
+}
+.gray{
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+.active-pink-2 input.form-control[type=text]:focus:not([readonly]) {
+    border-bottom: 1px solid #f48fb1;
+    box-shadow: 0 1px 0 0 #f48fb1;
+  }
+  .active-pink input.form-control[type=text] {
+    border-bottom: 1px solid #f48fb1;
+    box-shadow: 0 1px 0 0 #f48fb1;
+  }
+  .active-purple-2 input.form-control[type=text]:focus:not([readonly]) {
+    border-bottom: 1px solid #ce93d8;
+    box-shadow: 0 1px 0 0 #ce93d8;
+  }
+  .active-purple input.form-control[type=text] {
+    border-bottom: 1px solid #ce93d8;
+    box-shadow: 0 1px 0 0 #ce93d8;
+  }
+  .active-cyan-2 input.form-control[type=text]:focus:not([readonly]) {
+    border-bottom: 1px solid #4dd0e1;
+    box-shadow: 0 1px 0 0 #4dd0e1;
+  }
+  .active-cyan input.form-control[type=text] {
+    border-bottom: 1px solid #4dd0e1;
+    box-shadow: 0 1px 0 0 #4dd0e1;
+  }
